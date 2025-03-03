@@ -34,7 +34,7 @@
 
 ![alt text](Images/Padded_1.png)
 
-![alt text](Images/orig_image_channels_hist.png)
+![alt text](Images/orig_image_channels.png)
 
 ![alt text](Images/padded_channels.png)
 
