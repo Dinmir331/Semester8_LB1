@@ -52,7 +52,7 @@
 
 ![alt text](Images/Eroded_2.png)
 
-![alt text](Images/orig_image_channels_hist.png)
+![alt text](Images/orig_image_channels.png)
 
 ![alt text](Images/eroded_channels.png)
 
@@ -64,7 +64,7 @@
 
 ![alt text](Images/Dilated_3.png)
 
-![alt text](Images/orig_image_channels_hist.png)
+![alt text](Images/orig_image_channels.png)
 
 ![alt text](Images/dilated_channels.png)
 
@@ -80,7 +80,7 @@
 
 ![alt text](Images/Gaussian_4.png)
 
-![alt text](Images/orig_image_channels_hist.png)
+![alt text](Images/orig_image_channels.png)
 
 ![alt text](Images/gaussian_channels.png)
 
@@ -90,7 +90,7 @@
 
 ![alt text](Images/Median_5.png)
 
-![alt text](Images/orig_image_channels_hist.png)
+![alt text](Images/orig_image_channels.png)
 
 ![alt text](Images/median_channels.png)
 
@@ -104,7 +104,7 @@
 
 ![alt text](Images/Binarized_6.png)
 
-![alt text](Images/orig_image_channels_hist.png)
+![alt text](Images/orig_image_channels.png)
 
 ![alt text](Images/binarized_channels.png)
 
@@ -120,7 +120,7 @@
 
 ![alt text](Images/Brightened_7.png)
 
-![alt text](Images/orig_image_channels_hist.png)
+![alt text](Images/orig_image_channels.png)
 
 ![alt text](Images/brightened_channels.png)
 
@@ -132,7 +132,7 @@
 
 ![alt text](Images/Equalized_8.png)
 
-![alt text](Images/orig_image_channels_hist.png)
+![alt text](Images/orig_image_channels.png)
 
 ![alt text](Images/equalized_channels.png)
 
@@ -148,7 +148,7 @@
 
 ![alt text](Images/Enhance_Equalized_9.png)
 
-![alt text](Images/orig_image_channels_hist.png)
+![alt text](Images/orig_image_channels.png)
 
 ![alt text](Images/enhance_equalized_channels.png)
 
