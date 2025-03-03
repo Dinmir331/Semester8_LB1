@@ -156,7 +156,7 @@
 
 ![alt text](Images/Equalized_different_10.png)
 
-&ensp; Однако само распределение пикселей на гистогрыммах видно отчетливо:
+&ensp; Однако само распределение пикселей на гистограммах видно отчетливо:
 
 ![alt text](Images/equal_channels_hist.png)
 
